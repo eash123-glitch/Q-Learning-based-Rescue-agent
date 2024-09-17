@@ -76,7 +76,7 @@ The results show that the Q-learning agent significantly improves navigation eff
 
 You can download and view the demonstration video below:
 
-[Download the demonstration video](.result.webm)
+[Download the demonstration video](./result.webm)
 
 
 ## Conclusion
